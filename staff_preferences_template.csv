@@ -1,0 +1,4 @@
+Name,Role,Availability,Hard Constraints,Soft Preferences
+John,Nurse,"Mon,Tue,Wed,Thu,Fri",Max 40h,Works well with Sam
+Sam,Nurse,"Mon,Tue,Wed,Thu,Fri,Sat,Sun",No night shifts,Works well with John
+Charlie,Receptionist,"Tue,Wed,Fri",Only 3 days,Avoid back-to-back shifts
